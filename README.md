@@ -1,14 +1,22 @@
-# An-Enhanced-RT-DETR-for-Efficient-Cyanobacteria-Detection
-Adaptive Multi-Scale Fusion Enhanced RT-DETR for Efficient Cyanobacteria Detection in Microscopic Images
+#  An-Enhanced-RT-DETR-for-Efficient-Cyanobacteria-Detection
 
-### 📢 Notice / 公告
+##  公告  
+论文标题：*Adaptive Multi-Scale Fusion Enhanced RT-DETR for Efficient Cyanobacteria Detection in Microscopic Images*
 
-**English:**
-Thank you for your interest in our work! The source code and datasets for this project are currently being cleaned and documented to ensure they are user-friendly and reproducible. 
+##  项目简介  
+本仓库是上述论文的官方实现。我们提出一种改进的RT-DETR模型，通过自适应多尺度融合机制，显著提升显微图像中蓝藻检测的精度与效率。
 
-We plan to make the full repository public **upon the acceptance of our paper**. Please check back later!
+##  环境配置  
+按顺序执行以下步骤：
+1. 创建Python环境
+2. 安装PyTorch
+3. `pip install -r requirements.txt`
+4. `pip install -e .`
 
-**中文:**
-感谢您对我们工作的关注！本项目相关的源代码和数据集目前正在进行清洗和文档化工作，以确保代码的易用性和可复现性。
+> 本项目基于Ultralytics框架，更多细节请参考Ultralytics官方文档。
 
-我们计划在**论文被录用后**立即公开完整的仓库。请稍后再来查看！
+##  数据集说明  
+EMDS-7 dataset : https://figshare.com/articles/dataset/EMDS-7_DataSet/16869571 
+VisAlgae 2023 dataset : https://github.com/juntaoJianggavin/Visalgae2023 
+Marine-MicroalgaeDetection dataset : https://tianchi.aliyun.com/competition/entrance/532036/introduction 
+
