@@ -16,7 +16,7 @@
 > 本项目基于Ultralytics框架，更多细节请参考Ultralytics官方文档。
 
 ##  数据集说明  
-EMDS-7 dataset : https://figshare.com/articles/dataset/EMDS-7_DataSet/16869571 
-VisAlgae 2023 dataset : https://github.com/juntaoJianggavin/Visalgae2023 
+EMDS-7 dataset : https://figshare.com/articles/dataset/EMDS-7_DataSet/16869571  
+VisAlgae 2023 dataset : https://github.com/juntaoJianggavin/Visalgae2023  
 Marine-MicroalgaeDetection dataset : https://tianchi.aliyun.com/competition/entrance/532036/introduction 
 
